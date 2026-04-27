@@ -1,2 +1,3 @@
 # cviceni12
 cviko 12
+# JUPYTER, NUMPY, MATPLOTLIB
